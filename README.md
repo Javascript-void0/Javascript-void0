@@ -12,5 +12,4 @@ Around the Clock is a server that focuses on studying with others. Join others t
 
 ### Stats...?
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javascript-void0&layout=compact&theme=ayu-mirage)
-![stats](https://github-readme-stats.vercel.app/api?username=Javascript-void0&count_private=true&show_icons=true&theme=ayu-mirage&hide=prs,issues)
+![stats](https://github-readme-stats.vercel.app/api?username=Javascript-void0&count_private=true&show_icons=true&theme=ayu-mirage&hide=prs,issues) - ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javascript-void0&layout=compact&theme=ayu-mirage)
