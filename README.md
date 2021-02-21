@@ -17,4 +17,4 @@ aeofijaw;eofj
 a;oewifj
 
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javascript-void0&layout=compact&theme=ayu-mirage)]
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javascript-void0&layout=compact&theme=ayu-mirage)
