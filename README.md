@@ -10,6 +10,8 @@ Around the Clock is a server that focuses on studying with others 📚. Join oth
 
 ![Discord Banner 1](https://discordapp.com/api/guilds/802565984602423367/widget.png?style=banner2)
 
+<img alt="codingCactus" src="https://cdn.discordapp.com/attachments/805299221409824770/813179769440305162/f8afdc56227db30c818adab19063ba95.gif" width=325px>
+
 ### Stats...?
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javascript-void0&layout=compact&theme=ayu-mirage)
