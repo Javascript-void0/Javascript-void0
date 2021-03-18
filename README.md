@@ -1,6 +1,6 @@
 ## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/adTFB3T.jpg" width=45px>
 
-###### Java#7233
+###### Java ジャワ#7233
 
 ## Discord Server ![Discord Shield](https://discordapp.com/api/guilds/802565984602423367/widget.png?style=shield)
 Invite - [Around the Clock](https://discord.gg/nk69jVbJMP)
