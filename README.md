@@ -1,4 +1,4 @@
-## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/adTFB3T.jpg" width=45px>
+## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/ehezq57.gifg" width=45px>
 
 ###### Java ジャワ#7233
 
