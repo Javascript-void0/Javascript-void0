@@ -12,9 +12,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        header: "Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>"
-        subhead: "Java ジャワ#7233"
-        ref: "main"
         customReadmeFile: |
           ## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
 
@@ -48,4 +45,6 @@ jobs:
           java.hibernate() # Good Night 🌙
 
           ```
-          doesn't work ik
+        header: "Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>"
+        subhead: "Java ジャワ#7233"
+        ref: "main"
