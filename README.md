@@ -1,5 +1,7 @@
 ## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
-###### 
+
+###### Java ジャワ#7233
+
 ``` Python
 import os
 from time import sleep
