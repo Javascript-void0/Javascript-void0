@@ -1,0 +1,51 @@
+name: Update GitHub Profile README
+on:
+  push:
+  schedule:
+    - cron: "*/10 * * * *" 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Update GitHub Profile README
+      uses: theboi/github-update-readme@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        customReadmeFile: |
+          ## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
+
+          ###### ${subhead}
+
+          ``` Python
+          import os
+          from time import sleep
+
+          class Student:
+              def __init__(self):
+                  self.name = 'Java'
+                  self.discord = 'https://discord.gg/nk69jVbJMP'
+                  self.editor = 'Visual Studio Code'
+                  self.alive = True
+                  
+              def discord(self):
+                  if self.discord:
+                      return self.discord
+                  return False
+                  
+              def hibernate(self):
+                  while self.alive:
+                      sleep(0)
+                      
+              def blow_up_computer(self):
+                  Pass
+
+          java = Student()
+          java.blow_up_computer()
+          java.hibernate() # Good Night 🌙
+
+          ```
+          doesn't work ik
+        header: "Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>"
+        subhead: "Java ジャワ#7233"
+        ref: "main"
