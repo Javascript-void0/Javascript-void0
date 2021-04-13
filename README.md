@@ -24,7 +24,8 @@ class Student:
             sleep(31536000)
             
     def blow_up_computer(self):
-        
+        while True:
+            Pass
         
 if Student.discord:
     print('Around the Clock :D')
