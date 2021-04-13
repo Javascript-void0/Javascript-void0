@@ -1,11 +1,8 @@
 ## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
-
-###### Java ジャワ#7233
-
+###### 
 ``` Python
 import os
 from time import sleep
-
 class Student:
     def __init__(self):
         self.name = 'Java'
@@ -24,10 +21,7 @@ class Student:
             
     def blow_up_computer(self):
         Pass
-
 java = Student()
 java.blow_up_computer()
 java.hibernate() # Good Night 🌙
-
 ```
-doesn't work ik
