@@ -23,7 +23,7 @@ class Student:
             sleep(0)
             
     def blow_up_computer(self):
-        pass
+        Pass
 
 java = Student()
 java.blow_up_computer()
