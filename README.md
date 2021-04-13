@@ -11,6 +11,7 @@ class Student:
         self.name = 'Java'
         self.discord = 'Java ジャワ#7233'
         self.link =  'https://discord.gg/nk69jVbJMP'
+        self.editor = 'Visual Studio Code'
         
     def discord(self):
         if self.discord:
