@@ -15,3 +15,19 @@ Invite - [Around the Clock](https://discord.gg/nk69jVbJMP) <a href="https://disc
 🎉 ▹ I hope to continue to learn and explore, and hopefully my computer stays intact. 
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javascript-void0&layout=compact&theme=ayu-mirage) <img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
+
+``` Python
+class Student:
+    def __init__(self):
+        self.name = 'Java'
+        self.discord = 'Java ジャワ#7233'
+        self.link =  'https://discord.gg/nk69jVbJMP'
+        
+    def discord(self):
+        if self.discord:
+            return True, self.link
+        return False
+        
+if Student.discord() == True:
+```
+doesn't work ik
