@@ -12,6 +12,7 @@ class Student:
         self.discord = 'Java ジャワ#7233'
         self.link =  'https://discord.gg/nk69jVbJMP'
         self.editor = 'Visual Studio Code'
+        self.alive = True
         
     def discord(self):
         if self.discord:
@@ -19,12 +20,16 @@ class Student:
         return False
         
     def sleep(self):
-        sleep(31536000)
+        while self.alive:
+            sleep(31536000)
+            
+    def blow_up_computer(self):
+        
         
 if Student.discord:
     print('Around the Clock :D')
 
-self.sleep()
+self.sleep() # Good Night 🌙
 
 ```
 doesn't work ik
