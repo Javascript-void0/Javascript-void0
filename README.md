@@ -9,28 +9,25 @@ from time import sleep
 class Student:
     def __init__(self):
         self.name = 'Java'
-        self.discord = 'Java ジャワ#7233'
-        self.link =  'https://discord.gg/nk69jVbJMP'
+        self.discord = 'https://discord.gg/nk69jVbJMP'
         self.editor = 'Visual Studio Code'
         self.alive = True
         
     def discord(self):
         if self.discord:
-            return True, self.link
+            return self.discord
         return False
         
-    def sleep(self):
+    def hibernate(self):
         while self.alive:
-            sleep(31536000)
+            sleep(0)
             
     def blow_up_computer(self):
-        while True:
-            Pass
-        
-if Student.discord:
-    print('Around the Clock :D')
+        pass
 
-self.sleep() # Good Night 🌙
+java = Student()
+java.blow_up_computer()
+java.hibernate() # Good Night 🌙
 
 ```
 doesn't work ik
