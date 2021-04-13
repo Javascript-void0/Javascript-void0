@@ -1,0 +1,39 @@
+## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
+
+###### Java ジャワ#7233
+
+``` Python
+import os
+from time import sleep
+
+class Student:
+    def __init__(self):
+        self.name = 'Java'
+        self.discord = 'https://discord.gg/nk69jVbJMP'
+        self.editor = 'Visual Studio Code'
+        self.alive = True
+        
+    def discord(self):
+        if self.discord:
+            return self.discord
+        return False
+        
+    def hibernate(self):
+        while self.alive:
+            sleep(0)
+            
+    def blow_up_computer(self):
+        Pass
+
+java = Student()
+java.blow_up_computer()
+java.hibernate() # Good Night 🌙
+
+```
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
