@@ -2,7 +2,6 @@
 
 ###### Java ジャワ#7233
 
->>>>>>> 82cfc218b2113fe5aeec0d141fde0ecadfa21381
 ``` Python
 import os
 from time import sleep
@@ -34,5 +33,5 @@ java.hibernate() # Good Night 🌙
 ```
 
 ```
-Updated 9 times, last update at April 13, 2021 @ 08:33 PM
+Updated 10 times, last update at April 13, 2021 @ 08:34 PM
 ```
