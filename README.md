@@ -13,19 +13,13 @@ class Student:
         self.editor = 'Visual Studio Code'
         self.alive = True
         
-    def discord(self):
-        if self.discord:
-            return self.discord
-        return False
-        
+    def blow_up_computer(self):
+        while True:
+            count += 69
+
     def hibernate(self):
         while self.alive:
             sleep(0)
-            
-    def blow_up_computer(self):
-        while true:
-            count = count + '12.127'
-        Pass
 
 java = Student()
 java.blow_up_computer()
@@ -33,5 +27,5 @@ java.hibernate() # Good Night 🌙
 ```
 
 ```
-Updated 146 times, last update at April 14, 2021 @ 06:06 PM
+Updated 147 times, last update at April 14, 2021 @ 02:19 PM
 ```
