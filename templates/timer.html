@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Pomodoro</title>
+{% endblock %}
+
+{% block body %}
+<h1>Pomodoro</h1>
+
+<hr>
+<h2>Start New Timer:</h2>
+<form action='/timer' method='START'>
+    <input type='submit' value='Start'>
+</form>
+<hr>
+
+{% endblock %}
