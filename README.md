@@ -1,4 +1,6 @@
-## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px><img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
+<img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
+
+## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px>
 
 ###### Java ジャワ#7233
 
@@ -27,5 +29,5 @@ java.hibernate() # Good Night 🌙
 ```
 
 ```
-Updated 403 times, last update at April 17, 2021 @ 03:42 AM
+Updated 407 times, last update at April 17, 2021 @ 12:06 AM
 ```
