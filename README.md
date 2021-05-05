@@ -29,5 +29,5 @@ java.hibernate() # Good Night 🌙
 ```
 
 ```
-Updated 2024 times, last update at May 05, 2021 @ 06:10 PM
+Updated 2025 times, last update at May 05, 2021 @ 06:45 PM
 ```
