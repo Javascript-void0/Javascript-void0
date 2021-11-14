@@ -1,33 +1,5 @@
-<img align="right" img alt="zzz" src="https://i.imgur.com/ogb2wpN.gif" width=325px>
-
-## Java 🍌 <img align="left" img alt="pfp" src="https://i.imgur.com/kmobYvF.gif" width=45px>
-
-###### Java ジャワ#7233
-
-``` Python
-import os
-from time import sleep
-
-class Student:
-    def __init__(self):
-        self.name = 'Java'
-        self.discord = 'https://discord.gg/nk69jVbJMP'
-        self.editor = 'Visual Studio Code'
-        self.alive = True
-        
-    def blow_up_computer(self):
-        while True:
-            count += 69
-
-    def hibernate(self):
-        while self.alive:
-            sleep(0)
-
-java = Student()
-java.blow_up_computer()
-java.hibernate() # Good Night 🌙
-```
+<a href="https://imgur.com/lCVvgdK"><img src="https://i.imgur.com/lCVvgdK.jpg" title="source: imgur.com" /></a>
 
 ```
-Updated 15933 times, last update at November 14, 2021 @ 06:20 PM
+ 📮 Commit Counter: 15935 (November 14, 2021 @ 01:45 PM)
 ```
