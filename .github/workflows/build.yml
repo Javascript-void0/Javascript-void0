@@ -21,10 +21,10 @@ jobs:
 
     - name: commit files
       run: |
-        git config user.name "Gitub README Bot"
+        git config user.name "Counter"
         git config user.email "<>"
         git add -A
-        git commit -m "update data" -a
+        git commit -m " +1 " -a
       
     - name: push changes
       uses: ad-m/github-push-action@v0.6.0
