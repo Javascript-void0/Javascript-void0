@@ -1,16 +1,21 @@
+<img src="https://i.imgur.com/Td5UDT6.jpg" height="400" align="right">
+
 ```
-                  ___                      ___     
-       ___       /\  \         ___        /\  \    
-      /\__\     /::\  \       /\  \      /::\  \   
-     /:/__/    /:/\:\  \      \:\  \    /:/\:\  \  
-    /::\  \   /:/ /::\  \      \:\  \  /:/ /::\  \ 
-    \/\:\  \ /:/_/:/\:\__\ ___  \:\__\/:/_/:/\:\__\
-     ~~\:\  \\:\/:/  \/__//\  \ |:|  |\:\/:/  \/__/
-        \:\__\\::/__/     \:\  \|:|  | \::/__/     
-        /:/  / \:\  \      \:\__|:|__|  \:\  \     
-       /:/  /   \:\__\      \::::/__/    \:\__\    
-       \/__/     \/__/       ~~~~         \/__/    
+
+   - never gonna give you up
+   - never gonna let you down
+   - never gonna run around and desert you
+   - never gonna make you cry
+   - never gonna say goodbye
+   - never gonna tell a lie and hurt you
+
+
+
+     _      _      _
+   >(.)__ <(.)__ =(.)__
+    (___/  (___/  (___/ 
+
 ```
 ```yaml
- 📮 Commit Counter: 38960 (October 21, 2022 @ 11:49 PM)
+ 📮 Commit Counter: 38961 (October 21, 2022 @ 08:37 PM)
 ```
