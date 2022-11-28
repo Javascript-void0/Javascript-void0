@@ -1,23 +1,5 @@
-<img src="https://i.imgur.com/Td5UDT6.jpg" height="400" align="right">
-
-```
-
-   - never gonna give you up
-   - never gonna let you down
-   - never gonna run around and desert you
-   - never gonna make you cry
-   - never gonna say goodbye
-   - never gonna tell a lie and hurt you
-
-
-
-
-
-     _      _      _
-   >(.)__ <(.)__ =(.)__
-    (___/  (___/  (___/ 
-
-```
-```yaml
- 📮 Commit Counter: 41287 (November 28, 2022 @ 04:22 AM)
-```
+<p align="center">
+    <samp>
+        📮 Commit Counter: <a href="https://github.com/Javascript-void0/Javascript-void0/commits/main">#41289</a> (November 27, 2022 @ 11:37 PM)
+    </samp>
+</p>
